@@ -27,5 +27,7 @@
   "bugs": {
     "url": "https://github.com/jeremynhart/deep-thoughts/issues"
   },
-  "homepage": "https://github.com/jeremynhart/deep-thoughts#readme"
+  "homepage": "https://github.com/jeremynhart/deep-thoughts#readme",
+
+  "engines": { "node": "16.14.0" }
 }
