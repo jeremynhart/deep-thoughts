@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "jsonwebtoken": "^9.0.0"
+    "jsonwebtoken": "^9.0.0",
+    "react-scripts": "^5.0.1"
   },
   "name": "deep-thoughts",
   "description": "��#\u0000 \u0000d\u0000e\u0000e\u0000p\u0000-\u0000t\u0000h\u0000o\u0000u\u0000g\u0000h\u0000t\u0000s\u0000\r\u0000 \u0000",
@@ -28,9 +29,8 @@
     "url": "https://github.com/jeremynhart/deep-thoughts/issues"
   },
   "homepage": "https://github.com/jeremynhart/deep-thoughts#readme",
-
-  "engines": { 
-    "node": "16.14.0", 
+  "engines": {
+    "node": "16.14.0",
     "npm": "8.19.1"
   }
 }
