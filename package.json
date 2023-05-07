@@ -29,5 +29,8 @@
   },
   "homepage": "https://github.com/jeremynhart/deep-thoughts#readme",
 
-  "engines": { "node": "16.14.0" }
+  "engines": { 
+    "node": "16.14.0", 
+    "npm": "8.19.1"
+  }
 }
